@@ -1,0 +1,2 @@
+(speakConf: [ 40.0, 56.0, 8.10, 10.95 ], hostname: "Game Of Life 1", serverNumber: 0, numberOfServers: 2)
+
